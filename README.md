@@ -8,3 +8,8 @@ Container with name **php** has a php:) and mapped volume with symfony project
 - wconsole - execute symfony console in container 
 - wphpspec - execute phpspec in container 
 
+Copy scripts somewhere, add path to environment and use :)
+
+```wconsole ca:cl```
+
+```wcomposer install```
