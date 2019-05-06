@@ -10,6 +10,9 @@ Container with name **php** has a php:) and mapped volume with symfony project
 
 Copy scripts somewhere, add path to environment and use :)
 
+Set-ExecutionPolicy remoteSigned
+$env:Path += ";f:\workspace\docker-ps-symfony-shortcuts\"
+
 ```wconsole ca:cl```
 
 ```wcomposer install```
